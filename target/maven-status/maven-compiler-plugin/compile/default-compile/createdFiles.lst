@@ -1,7 +1,7 @@
-ec/fin/coopjep/indexacion/util/AlphanumComparator.class
-ec/fin/coopjep/indexacion/util/ProcesarArchivos.class
-ec/fin/coopjep/indexacion/util/TareaCrearReducida.class
-ec/fin/coopjep/indexacion/util/UtilArchivos.class
-ec/fin/coopjep/indexacion/util/Reductor.class
-ec/fin/coopjep/indexacion/util/Propiedades.class
-ec/fin/coopjep/indexacion/util/UtilImagenes.class
+ec/falpema/Propiedades.class
+ec/falpema/TareaCrearReducida.class
+ec/falpema/ProcesarArchivos.class
+ec/falpema/UtilArchivos.class
+ec/falpema/Reductor.class
+ec/falpema/AlphanumComparator.class
+ec/falpema/UtilImagenes.class

@@ -1,7 +1,7 @@
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/TareaCrearReducida.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/Reductor.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/Propiedades.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/UtilArchivos.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/AlphanumComparator.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/UtilImagenes.java
-/home/fabian/NetBeansProjects/ReductorImagen/src/main/java/ec/fin/coopjep/indexacion/util/ProcesarArchivos.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/ProcesarArchivos.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/Propiedades.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/TareaCrearReducida.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/UtilImagenes.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/UtilArchivos.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/Reductor.java
+/home/fabian/NetBeansProjects/git/trunk/src/main/java/ec/falpema/AlphanumComparator.java
