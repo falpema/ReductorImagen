@@ -1,0 +1,153 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ec.fin.coopjep</groupId>
+  <artifactId>ReductorImagen</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>ReductorImagen</name>
+  <description>Proyecto java para crear imagen reducida</description>
+  <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <mainClass>ec.fin.coopjep.indexacion.util.Reductor</mainClass>
+    </properties>
+     <build>
+    <plugins>
+            <!--inicio-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy-resources</id>
+                        <!-- Aqui ponemos la fase que queramos -->
+                        <phase>compile</phase>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <configuration>
+                            <!-- Aqui ponemos el directorio destino -->
+                            <outputDirectory>${basedir}/target/resources</outputDirectory>
+                            <resources>  
+                                <!-- 
+                                Aqui ponemos los directorios o recursos que queremos copiar.
+                                Añadiremos tantos elementos resource como queramos
+                                -->        
+                                <resource>
+                                    <directory>src/main/java/resources</directory>        
+                                </resource>
+                    
+                            </resources>          
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+<!--            fin-->
+          
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <configuration>
+                    <executable>java</executable>
+                    <arguments>
+                        <argument>-Dfile.encoding=UTF-8</argument>
+                        <argument>-classpath</argument>
+                        <classpath/>
+                        <argument>${mainClass}</argument>
+                    </arguments>
+                </configuration>
+            </plugin>
+            <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-assembly-plugin</artifactId>
+            <executions>
+                <execution>
+                    <id>assembly:package</id>
+                    <phase>package</phase>
+                    <goals>
+                        <goal>single</goal>
+                    </goals>
+                    <configuration>
+                        <!-- The filename of the assembled distribution 
+                        file defualt ${project.build.finalName}-->
+                        <finalName>ProcesadorImagenes</finalName>
+                        <appendAssemblyId>false</appendAssemblyId>
+                        <!--    A list of descriptor files path to generate from-->
+                        <descriptors>
+                            <descriptor>assembly.xml</descriptor>
+                        </descriptors>
+                    </configuration>
+                </execution>
+            </executions>
+        </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jar-plugin</artifactId>
+            <version>2.3</version>
+            <configuration>
+                <finalName>ProcesadorImagenes</finalName>
+                <appendAssemblyId>false</appendAssemblyId>
+                <archive>
+                    <manifest>
+                        <mainClass>${mainClass}</mainClass>
+                        <!-- to create a class path to your 
+                        dependecies you have to fill true in this field-->
+                        <addClasspath>true</addClasspath>
+                        <!-- if you put your dependencySet/outputDirectory 
+                        in the assembly file is in a specific folder (lib for example), 
+                        you need to add classpathPrefix-->
+                        
+
+                        <!-- if you defined your dependencySet/outputFileNameMapping 
+                        in the assembly, instead of using the classpathPrefix, 
+                        you should use customClasspathLayout, 
+                        add the classpathPrefix at the begining of the 
+                        customClasspathLayout, and then add the pattern of the outputFileNameMapping, 
+                        NOTICE YOU NEED TO ADD '$' BEFOR OF EACH '$'.
+                        supported only from version 2.3>-->
+                        <!--<classpathLayoutType>custom</classpathLayoutType>
+                        <customClasspathLayout>
+                            lib/$${artifact.groupId}.$${artifact.artifactId}.$${artifact.extension}
+                        </customClasspathLayout>-->
+                        <classpathLayoutType>custom</classpathLayoutType>
+                        <customClasspathLayout>lib/$${artifact.groupId}.$${artifact.artifactId}$${dashClassifier?}.$${artifact.extension}</customClasspathLayout>
+
+                    </manifest>
+
+<!--                    <manifestEntries>
+                        <Class-Path>conf/</Class-Path>
+                    </manifestEntries>-->
+                </archive>
+
+            </configuration>
+        </plugin>
+        </plugins>
+    
+    </build>
+    <dependencies>
+  <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>apache-log4j-extras</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+        
+		
+		 <dependency>
+            <groupId>org.imgscalr</groupId>
+            <artifactId>imgscalr-lib</artifactId>
+            <version>4.2</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>com.github.dragon66</groupId>
+            <artifactId>icafe</artifactId>
+            <version>1.1-SNAPSHOT</version>
+        </dependency>
+  	
+  </dependencies>
+</project>

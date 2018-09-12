@@ -1,0 +1,644 @@
+2018-09-12 10:40:27,900 [main] INFO  (Reductor.java:39) - Inicia ejecucion
+  2018-09-12 10:40:27,904 [main] INFO  (Reductor.java:40) - Ruta Revisar /indexacion/reducefinal/
+  2018-09-12 10:40:27,908 [main] INFO  (Reductor.java:45) - Procesar archivo /indexacion/reducefinal/procesar.txt
+  2018-09-12 10:40:27,922 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:27,924 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:27,924 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:27,925 [pool-1-thread-1] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:27,925 [pool-1-thread-1] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:27,926 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:27,926 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:27,927 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:27,928 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:27,928 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:27,927 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:27,928 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:27,929 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:27,931 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:27,932 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:27,932 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:27,932 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:27,932 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:27,933 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:27,934 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:27,934 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:27,934 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:27,934 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:27,935 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:27,935 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:27,936 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:27,936 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:27,936 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:27,937 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:27,937 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:27,937 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:27,937 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:27,938 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:27,928 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:27,938 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-4] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-4] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-3] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-3] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:27,940 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:27,940 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:27,940 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:27,940 [pool-1-thread-4] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:27,941 [pool-1-thread-4] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:27,930 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:27,942 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:27,942 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:27,942 [pool-1-thread-1] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:27,943 [pool-1-thread-1] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:27,946 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:27,946 [pool-1-thread-5] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:27,946 [pool-1-thread-5] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:27,947 [pool-1-thread-5] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:27,947 [pool-1-thread-5] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:27,939 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:27,950 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:27,950 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:27,951 [pool-1-thread-2] DEBUG (UtilImagenes.java:44) - Archivo ya existe /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:27,951 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:27,952 [main] INFO  (Reductor.java:59) - TERMINO PROCESO OPTIMIZACION DE IMAGENES
+  2018-09-12 10:40:27,952 [main] INFO  (Reductor.java:68) - TERMINA EJECUCION 
+  2018-09-12 10:40:27,953 [main] INFO  (Reductor.java:81) - Proceso terminado correctamente 
+  2018-09-12 10:40:29,139 [main] INFO  (Reductor.java:39) - Inicia ejecucion
+  2018-09-12 10:40:29,142 [main] INFO  (Reductor.java:40) - Ruta Revisar /indexacion/reducefinal/
+  2018-09-12 10:40:29,146 [main] INFO  (Reductor.java:45) - Procesar archivo /indexacion/reducefinal/procesar.txt
+  2018-09-12 10:40:29,158 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:29,160 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:29,160 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:29,160 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:29,161 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:29,161 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:29,162 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:29,161 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:29,161 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:29,162 [pool-1-thread-5] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:29,162 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:29,161 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:29,163 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:29,164 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,162 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:29,163 [pool-1-thread-3] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,167 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,168 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:40:29,168 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:29,168 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:29,168 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:29,168 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,169 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,169 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen12.tif
+  2018-09-12 10:40:29,169 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:29,169 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:29,169 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:29,170 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,170 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,171 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen11.tif
+  2018-09-12 10:40:29,171 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:29,171 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:29,171 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:29,163 [pool-1-thread-4] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,163 [pool-1-thread-5] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:29,172 [pool-1-thread-4] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,171 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,167 [pool-1-thread-3] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,173 [pool-1-thread-3] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:40:29,166 [pool-1-thread-1] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,173 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:29,174 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:29,174 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:29,173 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,175 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_13_3/Imagen12.tif
+  2018-09-12 10:40:29,172 [pool-1-thread-4] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:40:29,172 [pool-1-thread-5] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,175 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:29,175 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,177 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,177 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen12.tif
+  2018-09-12 10:40:29,177 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:29,178 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:29,178 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:29,178 [pool-1-thread-2] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,179 [pool-1-thread-2] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,179 [pool-1-thread-2] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen12.tif
+  2018-09-12 10:40:29,174 [pool-1-thread-3] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,174 [pool-1-thread-1] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,181 [pool-1-thread-1] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:40:29,181 [pool-1-thread-3] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,182 [pool-1-thread-3] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_14_1/Imagen11.tif
+  2018-09-12 10:40:29,176 [pool-1-thread-4] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,176 [pool-1-thread-5] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,182 [pool-1-thread-4] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:40:29,183 [pool-1-thread-4] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen11.tif
+  2018-09-12 10:40:29,182 [pool-1-thread-5] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:40:29,183 [main] INFO  (Reductor.java:59) - TERMINO PROCESO OPTIMIZACION DE IMAGENES
+  2018-09-12 10:40:29,183 [main] INFO  (Reductor.java:68) - TERMINA EJECUCION 
+  2018-09-12 10:40:29,183 [main] INFO  (Reductor.java:81) - Proceso terminado correctamente 
+  2018-09-12 10:41:01,050 [main] INFO  (Reductor.java:39) - Inicia ejecucion
+  2018-09-12 10:41:01,402 [main] INFO  (Reductor.java:40) - Ruta Revisar /indexacion/reducefinal/
+  2018-09-12 10:41:03,567 [main] INFO  (Reductor.java:45) - Procesar archivo /indexacion/reducefinal/procesar.txt
+  2018-09-12 10:41:40,137 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:41:50,153 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:41:55,401 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:42:04,360 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen12.tif
+  2018-09-12 10:42:04,361 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen11.tif
+  2018-09-12 10:42:04,361 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen12.tif
+  2018-09-12 10:42:04,360 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_16_2_1/Imagen11.tif
+  2018-09-12 10:43:19,849 [pool-1-thread-1] ERROR (UtilImagenes.java:100) - No se pudo leer imagen
+  java.io.FileNotFoundException: /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:94)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:43:24,261 [pool-1-thread-1] ERROR (UtilImagenes.java:77) - Error al obtener imagen reducida error
+  java.lang.NullPointerException
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.IOUtils.readFully(Unknown Source)
+	at com.icafe4j.io.PeekHeadInputStream.<init>(Unknown Source)
+	at com.icafe4j.image.ImageIO.read(Unknown Source)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.loadImagenTIFF(UtilImagenes.java:101)
+	at ec.fin.coopjep.indexacion.util.UtilImagenes.crearImagenReducida(UtilImagenes.java:46)
+	at ec.fin.coopjep.indexacion.util.TareaCrearReducida.run(TareaCrearReducida.java:55)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-12 10:49:55,736 [pool-1-thread-1] INFO  (TareaCrearReducida.java:64) - borrando archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen11.tif
+  2018-09-12 10:53:41,385 [main] INFO  (Reductor.java:39) - Inicia ejecucion
+  2018-09-12 10:53:41,387 [main] INFO  (Reductor.java:40) - Ruta Revisar /indexacion/reducefinal/
+  2018-09-12 10:53:41,391 [main] INFO  (Reductor.java:45) - Procesar archivo /indexacion/reducefinal/procesar.txt
+  2018-09-12 10:53:45,100 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:53:50,730 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:53:51,098 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:08,793 [main] INFO  (Reductor.java:39) - Inicia ejecucion
+  2018-09-12 10:55:08,796 [main] INFO  (Reductor.java:40) - Ruta Revisar /indexacion/reducefinal/
+  2018-09-12 10:55:08,800 [main] INFO  (Reductor.java:45) - Procesar archivo /indexacion/reducefinal/procesar.txt
+  2018-09-12 10:55:10,332 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:13,226 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:13,610 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:21,770 [pool-1-thread-1] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:42,776 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:42,777 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:42,777 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:42,777 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:46,521 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:46,522 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:46,522 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:46,522 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:46,524 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:46,526 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:46,526 [pool-1-thread-5] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:46,526 [pool-1-thread-5] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:47,384 [pool-1-thread-4] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:47,420 [pool-1-thread-2] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:47,449 [pool-1-thread-3] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:47,451 [pool-1-thread-5] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:54,454 [pool-1-thread-3] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:54,455 [pool-1-thread-3] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:54,702 [pool-1-thread-3] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:54,703 [pool-1-thread-3] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen2.tif
+  2018-09-12 10:55:54,822 [pool-1-thread-5] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:54,823 [pool-1-thread-5] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:54,914 [pool-1-thread-5] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:54,914 [pool-1-thread-5] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen4.tif
+  2018-09-12 10:55:55,126 [pool-1-thread-2] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:55,128 [pool-1-thread-2] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:55,208 [pool-1-thread-2] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:55,209 [pool-1-thread-2] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen1.tif
+  2018-09-12 10:55:55,405 [pool-1-thread-4] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:55,407 [pool-1-thread-4] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:55,499 [pool-1-thread-4] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:55,499 [pool-1-thread-4] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen3.tif
+  2018-09-12 10:55:57,217 [pool-1-thread-1] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:57,218 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:57,218 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:55:57,218 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:57,219 [pool-1-thread-1] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:57,219 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:57,314 [pool-1-thread-1] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:57,314 [pool-1-thread-1] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_7_2_1/Imagen0.tif
+  2018-09-12 10:55:57,384 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:57,385 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:57,385 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:57,385 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:55:57,386 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:55:57,386 [pool-1-thread-5] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:57,385 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:57,386 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:57,386 [pool-1-thread-5] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:57,544 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:57,545 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:57,764 [pool-1-thread-2] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:57,892 [pool-1-thread-3] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:57,901 [pool-1-thread-4] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:57,902 [pool-1-thread-5] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:58,193 [pool-1-thread-1] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:58,458 [pool-1-thread-2] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:58,459 [pool-1-thread-2] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:58,553 [pool-1-thread-2] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:58,553 [pool-1-thread-2] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen0.tif
+  2018-09-12 10:55:58,729 [pool-1-thread-2] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:55:58,834 [pool-1-thread-1] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:58,835 [pool-1-thread-1] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:58,869 [pool-1-thread-2] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:55:58,869 [pool-1-thread-2] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:55:58,952 [pool-1-thread-1] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:58,952 [pool-1-thread-1] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen2.tif
+  2018-09-12 10:55:59,002 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:55:59,175 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:55:59,175 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:55:59,226 [pool-1-thread-2] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:59,310 [pool-1-thread-4] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:59,311 [pool-1-thread-4] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:59,552 [pool-1-thread-4] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:59,553 [pool-1-thread-4] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen1.tif
+  2018-09-12 10:55:59,596 [pool-1-thread-1] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:55:59,681 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:55:59,817 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:55:59,817 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:55:59,846 [pool-1-thread-5] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:55:59,847 [pool-1-thread-5] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:59,952 [pool-1-thread-5] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:59,952 [pool-1-thread-5] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_1/Imagen0.tif
+  2018-09-12 10:55:59,970 [pool-1-thread-5] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:00,114 [pool-1-thread-5] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:00,114 [pool-1-thread-5] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:00,160 [pool-1-thread-4] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:56:00,583 [pool-1-thread-5] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:56:00,587 [pool-1-thread-3] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:00,588 [pool-1-thread-3] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:56:00,672 [pool-1-thread-3] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:56:00,672 [pool-1-thread-3] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_1/Imagen0.tif
+  2018-09-12 10:56:00,784 [pool-1-thread-3] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:00,897 [pool-1-thread-3] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:00,898 [pool-1-thread-3] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:01,114 [pool-1-thread-4] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:01,116 [pool-1-thread-4] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:56:01,243 [pool-1-thread-4] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:56:01,243 [pool-1-thread-4] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen0.tif
+  2018-09-12 10:56:01,276 [pool-1-thread-3] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:56:01,320 [pool-1-thread-4] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:01,441 [pool-1-thread-4] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:01,441 [pool-1-thread-4] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:01,592 [pool-1-thread-1] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:01,594 [pool-1-thread-1] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:56:01,719 [pool-1-thread-1] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:56:01,719 [pool-1-thread-1] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen4.tif
+  2018-09-12 10:56:01,792 [pool-1-thread-4] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:56:01,849 [pool-1-thread-1] INFO  (TareaCrearReducida.java:39) - Procesar archivo /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:01,994 [pool-1-thread-1] INFO  (TareaCrearReducida.java:53) - archivoDestino /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:01,994 [pool-1-thread-1] INFO  (TareaCrearReducida.java:54) - archivoOrigen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:02,068 [pool-1-thread-2] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:02,070 [pool-1-thread-2] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:56:02,296 [pool-1-thread-2] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:56:02,296 [pool-1-thread-2] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_21_10_3/Imagen3.tif
+  2018-09-12 10:56:02,386 [pool-1-thread-1] INFO  (UtilImagenes.java:64) - Relacion de imagen 2.9975816203143895
+  2018-09-12 10:56:02,700 [pool-1-thread-4] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:02,701 [pool-1-thread-4] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:02,817 [pool-1-thread-4] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:02,817 [pool-1-thread-4] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen3.tif
+  2018-09-12 10:56:03,062 [pool-1-thread-3] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:03,064 [pool-1-thread-3] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:03,173 [pool-1-thread-3] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:03,173 [pool-1-thread-3] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen2.tif
+  2018-09-12 10:56:03,619 [pool-1-thread-5] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:03,619 [pool-1-thread-5] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:03,740 [pool-1-thread-5] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:03,740 [pool-1-thread-5] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen1.tif
+  2018-09-12 10:56:04,038 [pool-1-thread-1] INFO  (UtilImagenes.java:70) - Tamnio de imagen nueva827-1170
+  2018-09-12 10:56:04,038 [pool-1-thread-1] INFO  (UtilImagenes.java:71) - borro /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:04,208 [pool-1-thread-1] INFO  (UtilImagenes.java:146) - Guardado Imagen /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:04,208 [pool-1-thread-1] INFO  (UtilImagenes.java:72) - crea imagen reducido  /indexacion/final/8462269/04/406050329409/406050329409_19_2_3/Imagen4.tif
+  2018-09-12 10:56:04,209 [main] INFO  (Reductor.java:59) - TERMINO PROCESO OPTIMIZACION DE IMAGENES
+  2018-09-12 10:56:04,209 [main] INFO  (Reductor.java:68) - TERMINA EJECUCION 
+  2018-09-12 10:56:04,209 [main] INFO  (Reductor.java:81) - Proceso terminado correctamente 
+  
